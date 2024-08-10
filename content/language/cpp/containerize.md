@@ -87,4 +87,4 @@ Related information:
 In the next section, you'll learn how you can develop your application using
 containers.
 
-{{< button text="Develop your application" url="develop.md" >}}
+[Develop your application](../../build/guide/"develop.md) 
